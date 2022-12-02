@@ -3,6 +3,7 @@
 import Counter from '../Counter.js';
 
 beforeEach(() => {
+  <Counter />
   // Render the Counter component here
 })
 
